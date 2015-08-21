@@ -1,0 +1,18 @@
+{
+	"name": "EngineeringMode Demo",
+	"description": "Demo on how to use EngineeringMode",
+	"launch_path": "/index.html",
+	"icons": {
+		"128": "/icons/icon128x128.png"
+	},
+	"developer": {
+		"name": "Mozilla"
+	},
+	"default_locale": "en",
+	"type": "certified",
+	"permissions": {
+		"engineering-mode": {
+			"description": "Required for demo of custom API implementation"
+		}
+	}
+}
